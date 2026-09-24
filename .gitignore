@@ -1,0 +1,8 @@
+*.class
+*.jar
+target/
+*.log
+.idea/
+*.iml
+out/
+data/*.txt
